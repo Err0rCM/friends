@@ -1,9 +1,4 @@
-# [云游君的小伙伴们](https://www.yunyoujun.cn/links/)
-
-[![YunYouJun Friends](https://github.com/YunYouJun/friends/workflows/YunYouJun%20Friends/badge.svg)](https://friends.yunyoujun.cn)
-[![links.json](https://img.shields.io/badge/links.json-yellow)](https://friends.yunyoujun.cn/links.json)
-
-> 因为现在友链真的已经很多了，所以暂时不再接受新的友链了！（除非你有自信你的内容真的很有趣，哈哈哈哈哈！）
+# [浅伴独蓝的小伙伴们](https://err0r.top/links/)
 
 ## 友链说明
 
@@ -38,14 +33,14 @@
 ### 格式
 
 ```yml
-- url: https://www.yunyoujun.cn
-  avatar: https://www.yunyoujun.cn/images/avatar.jpg
-  name: 云游君
-  blog: 云游君的小站
+- url: https://err0r.top
+  avatar: https://err0r.top/images/avatar.jpg
+  name: Err0r
+  blog: 浅伴独蓝的小站
   desc: 希望能成为一个有趣的人。
   # Or: All at sea.
-  email: me@yunyoujun.cn
-  color: "#0078e7"
+  email: err0rcm@qq.cn
+  color: "#C0D9D9"
 ```
 
 - `url`: 博客链接
@@ -63,7 +58,7 @@
 - 在 GitHub 上 `Fork` 此仓库
 - 按照以上格式在 [`public/links.yml`](./public/links.yml) 文件末尾新增你的信息（最末尾留一个空行）
 - 完成后，新建 `Pull Request`，PR 标题可以使用你喜欢的 emoji + 你的网址，譬如 `☁️ yunyoujun.cn`，当然如果你有其他更有创意的方式，也完全 OK。
-- 当 `Pull Request` 被合并后，请尽快于您的站点添加本站友链，您的站点将在 10 分钟内显示在[云游君的小伙伴](https://www.yunyoujun.cn/links/)里。
+- 当 `Pull Request` 被合并后，请尽快于您的站点添加本站友链，您的站点将在 10 分钟内显示在[浅伴独蓝的小伙伴](https://err0r.top/links/)里。
 
 ## Cli
 
@@ -77,3 +72,8 @@ pnpm friends
 - [ ] 友链状态检测
   - [ ] cli
   - [ ] status page
+
+## 感谢
+
+云游君yyds！
+https://yun.yunyoujun.cn/
